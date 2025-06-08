@@ -4,7 +4,7 @@
   <groupId>usbank</groupId>
   <artifactId>myproject</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>17-SNAPSHOT</version>
   <name>myproject</name>
   <url>http://maven.apache.org</url>
   <dependencies>
